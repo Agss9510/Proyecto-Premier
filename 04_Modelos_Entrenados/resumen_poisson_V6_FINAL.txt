@@ -1,0 +1,24 @@
+                   Generalized Linear Model Regression Results                   
+=================================================================================
+Dep. Variable:     CORNERS_TOTAL_PARTIDO   No. Observations:                  420
+Model:                               GLM   Df Residuals:                      415
+Model Family:                    Poisson   Df Model:                            4
+Link Function:                       Log   Scale:                          1.0000
+Method:                             IRLS   Log-Likelihood:                -1114.6
+Date:                   Tue, 30 Sep 2025   Deviance:                       500.89
+Time:                           21:09:18   Pearson chi2:                     481.
+No. Iterations:                        4   Pseudo R-squ. (CS):            0.01841
+Covariance Type:               nonrobust                                         
+============================================================================================
+                               coef    std err          z      P>|z|      [0.025      0.975]
+--------------------------------------------------------------------------------------------
+Local_CORNERS_AF_AVG         0.0098      0.008      1.202      0.229      -0.006       0.026
+Local_CORNERS_EC_AVG         0.0172      0.008      2.201      0.028       0.002       0.032
+Visitante_CORNERS_AF_AVG     0.0172      0.008      2.201      0.028       0.002       0.032
+Visitante_CORNERS_EC_AVG     0.0098      0.008      1.202      0.229      -0.006       0.026
+Local_ST_AF_AVG              0.0052      0.006      0.911      0.362      -0.006       0.016
+Local_ST_EC_AVG              0.0011      0.005      0.221      0.825      -0.009       0.011
+Visitante_ST_AF_AVG          0.0011      0.005      0.221      0.825      -0.009       0.011
+Visitante_ST_EC_AVG          0.0052      0.006      0.911      0.362      -0.006       0.016
+FACTOR_LOCAL                 1.8835      0.225      8.366      0.000       1.442       2.325
+============================================================================================
