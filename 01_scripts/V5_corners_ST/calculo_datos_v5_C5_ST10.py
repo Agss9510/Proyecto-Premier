@@ -9,8 +9,8 @@ BASE_CONSOLIDADA_PATH = PROYECTO_ROOT_ABSOLUTO / '03_Datos_Limpios' / 'premier_l
 OUTPUT_PATH = PROYECTO_ROOT_ABSOLUTO / '03_Datos_Limpios' / 'premier_league_BASE_V5_C5_ST10.csv'
 
 # Parámetros del Modelo V5.1
-N_CORNERS = 5  # Ventana para Córners (HC/AC)
-N_ST = 10      # Ventana para Tiros a Puerta (HST/AST)
+N_CORNERS = 5   # Ventana para Córners (HC/AC)
+N_ST = 10       # Ventana para Tiros a Puerta (HST/AST)
 
 def calcular_metricas(df, equipo, metrica_abr, N):
     """
@@ -53,20 +53,24 @@ def preparar_datos_v5(base_path, output_path):
         print(f"Error: Base consolidada no encontrada en {base_path}")
         return
 
-    # Renombrar columnas según tu estructura consolidada y la necesidad del V5.1
-    # Asumimos: HC/AC son Córners. HS/AS eran Tiros Totales (V2), ahora los interpretaremos como Tiros a Puerta (V5.1)
-    df.columns = ['Fecha', 'Local', 'Visitante', 'Resultado_Final', 
-                  'HC', 'AC',  # Córners Home/Away
-                  'HST', 'AST'] # Tiros a Puerta Home/Away (renombrado de HS/AS para V5.1)
+    # --- CORRECCIÓN 1: Eliminación del renombramiento incorrecto ---
+    # La consolidación ya debe proveer los nombres correctos (16 columnas).
+    # Se comentó el bloque que intentaba renombrar 16 columnas con solo 8 nombres.
+    # df.columns = ['Fecha', 'Local', 'Visitante', 'Resultado_Final', 
+    #              'HC', 'AC',   
+    #              'HST', 'AST'] 
 
     # 1. Preparación general
-    df['Fecha'] = pd.to_datetime(df['Fecha'], dayfirst=True)
-    df = df.sort_values(by='Fecha').reset_index(drop=True)
+    # --- CORRECCIÓN 2: Tratamiento de fechas con errores='coerce' ---
+    df['Fecha'] = pd.to_datetime(df['Fecha'], dayfirst=True, errors='coerce')
+    
+    # Eliminar filas con fechas no válidas que errors='coerce' convirtió a NaT
+    df = df.dropna(subset=['Fecha']).sort_values(by='Fecha').reset_index(drop=True)
     
     all_teams = pd.concat([df['Local'], df['Visitante']]).unique()
     df_final = df.copy()
 
-    # 2. Iterar y calcular métricas
+    # 2. Iterar y calcular métricas (se asume que las columnas 'HC', 'AC', 'HST', 'AST' existen y son correctas)
     for equipo in all_teams:
         
         # Córners (C5) - metrica_abr='HC'
@@ -78,13 +82,13 @@ def preparar_datos_v5(base_path, output_path):
         # Unir Córners al DataFrame principal
         df_c = df_c.drop(columns=['Local', 'Visitante'])
         df_c = df_c.rename(columns={'C_AF_AVG': f'{equipo}_CORNERS_AF_AVG',
-                                    'C_EC_AVG': f'{equipo}_CORNERS_EC_AVG'})
+                                     'C_EC_AVG': f'{equipo}_CORNERS_EC_AVG'})
         df_final = df_final.merge(df_c, on=['Fecha'], how='left')
 
         # Unir Tiros a Puerta al DataFrame principal
         df_st = df_st.drop(columns=['Local', 'Visitante'])
         df_st = df_st.rename(columns={'ST_AF_AVG': f'{equipo}_ST_AF_AVG',
-                                      'ST_EC_AVG': f'{equipo}_ST_EC_AVG'})
+                                       'ST_EC_AVG': f'{equipo}_ST_EC_AVG'})
         df_final = df_final.merge(df_st, on=['Fecha'], how='left')
 
     # 3. Mapear métricas al partido (Local y Visitante)
@@ -101,8 +105,10 @@ def preparar_datos_v5(base_path, output_path):
     # 4. Limpieza final y selección de columnas para el modelo
     # Solo modelamos partidos donde tenemos las 4 métricas de ambos equipos
     df_modelado = df_final.dropna(subset=['Local_CORNERS_AF_AVG', 'Local_ST_AF_AVG']) 
-    df_modelado['CORNERS_TOTAL_PARTIDO'] = df_modelado['HC'] + df_modelado['AC']
-    df_modelado['FACTOR_LOCAL'] = 1 # Variable constante para el sesgo de jugar en casa
+    
+    # Uso de .loc para evitar la advertencia SettingWithCopyWarning
+    df_modelado.loc[:, 'CORNERS_TOTAL_PARTIDO'] = df_modelado['HC'] + df_modelado['AC']
+    df_modelado.loc[:, 'FACTOR_LOCAL'] = 1 # Variable constante para el sesgo de jugar en casa
 
     # Seleccionar solo las columnas necesarias para el modelo
     cols_modelo = [

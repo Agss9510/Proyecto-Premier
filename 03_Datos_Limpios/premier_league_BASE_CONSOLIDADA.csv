@@ -1,384 +1,384 @@
 Fecha,Local,Visitante,Resultado_Final,HC,AC,HST,AST,FT_H,FT_A,OFF_H,OFF_A,Total_Tiros,Total_Tiros_Libres,Total_Offsides,Total_Corners
-2024-08-16,Man United,Fulham,H,7,8,14,10,,,,,24,,,15
-2024-08-17,Arsenal,Wolverhampton Wanderers,H,8,2,18,9,,,,,27,,,10
-2024-08-17,Everton,Brighton & Hove Albion,A,1,5,9,10,,,,,19,,,6
-2024-08-17,Newcastle,Southampton,H,3,12,3,19,,,,,22,,,15
-2024-08-17,Nottingham Forest,Bournemouth,D,2,6,14,13,,,,,27,,,8
-2024-08-17,West Ham,Aston Villa,A,5,3,14,15,,,,,29,,,8
-2024-08-17,Ipswich,Liverpool,A,2,10,7,18,,,,,25,,,12
-2024-08-18,Brentford,Crystal Palace,H,4,7,9,14,,,,,23,,,11
-2024-08-18,Chelsea,Man City,A,4,3,10,11,,,,,21,,,7
-2024-08-19,Leicester,Tottenham,D,2,13,7,15,,,,,22,,,15
-2024-08-24,Tottenham,Everton,H,12,5,13,10,,,,,23,,,17
-2024-08-24,Brighton & Hove Albion,Man United,H,4,4,14,11,,,,,25,,,8
-2024-08-24,Crystal Palace,West Ham,A,3,3,14,18,,,,,32,,,6
-2024-08-24,Fulham,Leicester,H,7,5,18,10,,,,,28,,,12
-2024-08-24,Man City,Ipswich,H,10,1,14,1,,,,,15,,,11
-2024-08-24,Southampton,Nottingham Forest,A,4,10,5,23,,,,,28,,,14
-2024-08-24,Aston Villa,Arsenal,A,4,1,11,9,,,,,20,,,5
-2024-08-25,Bournemouth,Newcastle,D,8,9,16,14,,,,,30,,,17
-2024-08-25,Wolverhampton Wanderers,Chelsea,A,5,5,12,14,,,,,26,,,10
-2024-08-25,Liverpool,Brentford,H,9,4,19,8,,,,,27,,,13
-2024-08-31,Arsenal,Brighton & Hove Albion,D,3,7,11,22,,,,,33,,,10
-2024-08-31,Brentford,Southampton,H,2,8,20,18,,,,,38,,,10
-2024-08-31,West Ham,Man City,A,3,11,10,23,,,,,33,,,14
-2024-08-31,Everton,Bournemouth,A,8,4,18,17,,,,,35,,,12
-2024-08-31,Ipswich,Fulham,D,8,6,11,9,,,,,20,,,14
-2024-08-31,Leicester,Aston Villa,A,1,4,9,10,,,,,19,,,5
-2024-08-31,Nottingham Forest,Wolverhampton Wanderers,D,7,3,16,11,,,,,27,,,10
-2024-09-01,Chelsea,Crystal Palace,D,4,5,13,9,,,,,22,,,9
-2024-09-01,Man United,Liverpool,A,5,2,8,11,,,,,19,,,7
-2024-09-01,Newcastle,Tottenham,H,7,12,9,20,,,,,29,,,19
-2024-09-14,Southampton,Man United,A,0,7,6,20,,,,,26,,,7
-2024-09-14,Brighton & Hove Albion,Ipswich,D,9,2,21,6,,,,,27,,,11
-2024-09-14,Crystal Palace,Leicester,D,5,2,20,9,,,,,29,,,7
-2024-09-14,Liverpool,Nottingham Forest,A,7,2,14,5,,,,,19,,,9
-2024-09-14,Man City,Brentford,H,12,3,18,8,,,,,26,,,15
-2024-09-14,Aston Villa,Everton,H,6,2,17,6,,,,,23,,,8
-2024-09-14,Bournemouth,Chelsea,A,6,3,19,10,,,,,29,,,9
-2024-09-14,Fulham,West Ham,D,3,2,21,11,,,,,32,,,5
-2024-09-15,Tottenham,Arsenal,A,7,6,15,7,,,,,22,,,13
-2024-09-15,Wolverhampton Wanderers,Newcastle,A,4,7,12,14,,,,,26,,,11
-2024-09-21,Aston Villa,Wolverhampton Wanderers,H,6,5,9,10,,,,,19,,,11
-2024-09-21,Fulham,Newcastle,H,6,0,22,15,,,,,37,,,6
-2024-09-21,Leicester,Everton,D,6,1,12,16,,,,,28,,,7
-2024-09-21,Liverpool,Bournemouth,H,3,9,19,19,,,,,38,,,12
-2024-09-21,Southampton,Ipswich,D,2,10,11,13,,,,,24,,,12
-2024-09-21,Tottenham,Brentford,H,9,4,23,6,,,,,29,,,13
-2024-09-21,West Ham,Chelsea,A,6,5,15,12,,,,,27,,,11
-2024-09-21,Crystal Palace,Man United,D,4,11,9,15,,,,,24,,,15
-2024-09-22,Brighton & Hove Albion,Nottingham Forest,D,9,1,14,4,,,,,18,,,10
-2024-09-22,Man City,Arsenal,D,8,2,33,5,,,,,38,,,10
-2024-09-28,Nottingham Forest,Fulham,A,6,5,11,14,,,,,25,,,11
-2024-09-28,Newcastle,Man City,D,5,6,11,16,,,,,27,,,11
-2024-09-28,Arsenal,Leicester,H,17,0,36,5,,,,,41,,,17
-2024-09-28,Brentford,West Ham,D,7,7,8,19,,,,,27,,,14
-2024-09-28,Chelsea,Brighton & Hove Albion,H,8,2,15,15,,,,,30,,,10
-2024-09-28,Everton,Crystal Palace,H,5,8,8,17,,,,,25,,,13
-2024-09-28,Wolverhampton Wanderers,Liverpool,A,2,10,8,10,,,,,18,,,12
-2024-09-29,Man United,Tottenham,A,5,3,11,24,,,,,35,,,8
-2024-09-29,Ipswich,Aston Villa,D,10,0,15,7,,,,,22,,,10
-2024-09-30,Bournemouth,Southampton,H,7,4,14,9,,,,,23,,,11
-2024-10-05,Man City,Fulham,H,8,3,20,11,,,,,31,,,11
-2024-10-05,Leicester,Bournemouth,H,0,9,6,17,,,,,23,,,9
-2024-10-05,Everton,Newcastle,D,0,10,8,14,,,,,22,,,10
-2024-10-05,Arsenal,Southampton,H,13,1,29,8,,,,,37,,,14
-2024-10-05,Crystal Palace,Liverpool,A,3,8,9,16,,,,,25,,,11
-2024-10-05,West Ham,Ipswich,H,5,5,23,9,,,,,32,,,10
-2024-10-05,Brentford,Wolverhampton Wanderers,H,10,3,19,17,,,,,36,,,13
-2024-10-06,Aston Villa,Man United,D,6,3,11,10,,,,,21,,,9
-2024-10-06,Chelsea,Nottingham Forest,D,11,3,22,16,,,,,38,,,14
-2024-10-06,Brighton & Hove Albion,Tottenham,H,4,7,11,13,,,,,24,,,11
-2024-10-19,Tottenham,West Ham,H,13,5,22,11,,,,,33,,,18
-2024-10-19,Fulham,Aston Villa,A,6,11,10,14,,,,,24,,,17
-2024-10-19,Ipswich,Everton,A,5,8,13,11,,,,,24,,,13
-2024-10-19,Man United,Brentford,H,9,2,23,8,,,,,31,,,11
-2024-10-19,Newcastle,Brighton & Hove Albion,A,9,4,21,10,,,,,31,,,13
-2024-10-19,Southampton,Leicester,A,10,6,14,18,,,,,32,,,16
-2024-10-19,Bournemouth,Arsenal,H,7,4,13,6,,,,,19,,,11
-2024-10-20,Liverpool,Chelsea,H,1,6,9,12,,,,,21,,,7
-2024-10-20,Wolverhampton Wanderers,Man City,A,1,18,3,22,,,,,25,,,19
-2024-10-21,Nottingham Forest,Crystal Palace,H,6,6,20,20,,,,,40,,,12
-2024-10-25,Leicester,Nottingham Forest,A,6,7,11,20,,,,,31,,,13
-2024-10-26,Aston Villa,Bournemouth,D,9,7,18,11,,,,,29,,,16
-2024-10-26,Brentford,Ipswich,H,5,5,20,11,,,,,31,,,10
-2024-10-26,Brighton & Hove Albion,Wolverhampton Wanderers,D,9,6,19,14,,,,,33,,,15
-2024-10-26,Man City,Southampton,H,12,1,22,5,,,,,27,,,13
-2024-10-26,Everton,Fulham,D,4,2,10,14,,,,,24,,,6
-2024-10-27,Arsenal,Liverpool,D,1,3,9,9,,,,,18,,,4
-2024-10-27,West Ham,Man United,H,6,5,12,18,,,,,30,,,11
-2024-10-27,Crystal Palace,Tottenham,H,8,8,14,11,,,,,25,,,16
-2024-10-27,Chelsea,Newcastle,H,7,4,17,11,,,,,28,,,11
-2024-11-02,Newcastle,Arsenal,H,4,6,9,10,,,,,19,,,10
-2024-11-02,Bournemouth,Man City,H,3,10,12,18,,,,,30,,,13
-2024-11-02,Ipswich,Leicester,D,4,6,14,20,,,,,34,,,10
-2024-11-02,Southampton,Everton,H,3,6,9,16,,,,,25,,,9
-2024-11-02,Liverpool,Brighton & Hove Albion,H,10,7,16,13,,,,,29,,,17
-2024-11-02,Nottingham Forest,West Ham,H,11,6,19,4,,,,,23,,,17
-2024-11-02,Wolverhampton Wanderers,Crystal Palace,D,3,6,11,19,,,,,30,,,9
-2024-11-03,Man United,Chelsea,D,4,8,11,12,,,,,23,,,12
-2024-11-03,Tottenham,Aston Villa,H,6,4,16,12,,,,,28,,,10
-2024-11-04,Fulham,Brentford,H,11,3,26,5,,,,,31,,,14
-2024-11-09,Brentford,Bournemouth,H,6,4,12,15,,,,,27,,,10
-2024-11-09,Crystal Palace,Fulham,A,1,8,13,17,,,,,30,,,9
-2024-11-09,Wolverhampton Wanderers,Southampton,H,1,9,8,9,,,,,17,,,10
-2024-11-09,Brighton & Hove Albion,Man City,H,0,4,10,15,,,,,25,,,4
-2024-11-09,Liverpool,Aston Villa,H,2,9,14,12,,,,,26,,,11
-2024-11-09,West Ham,Everton,D,7,6,11,18,,,,,29,,,13
-2024-11-10,Nottingham Forest,Newcastle,A,4,5,9,17,,,,,26,,,9
-2024-11-10,Chelsea,Arsenal,D,4,3,17,13,,,,,30,,,7
-2024-11-10,Tottenham,Ipswich,A,12,2,17,8,,,,,25,,,14
-2024-11-10,Man United,Leicester,H,1,5,13,6,,,,,19,,,6
-2024-11-23,Everton,Brentford,D,10,4,27,9,,,,,36,,,14
-2024-11-23,Bournemouth,Brighton & Hove Albion,A,7,0,19,6,,,,,25,,,7
-2024-11-23,Aston Villa,Crystal Palace,D,10,1,17,13,,,,,30,,,11
-2024-11-23,Man City,Tottenham,A,9,3,23,9,,,,,32,,,12
-2024-11-23,Arsenal,Nottingham Forest,H,8,1,19,7,,,,,26,,,9
-2024-11-23,Leicester,Chelsea,A,2,9,4,16,,,,,20,,,11
-2024-11-23,Fulham,Wolverhampton Wanderers,A,7,2,10,10,,,,,20,,,9
-2024-11-24,Southampton,Liverpool,A,3,10,7,27,,,,,34,,,13
-2024-11-24,Ipswich,Man United,D,4,3,11,11,,,,,22,,,7
-2024-11-25,Newcastle,West Ham,A,8,3,18,15,,,,,33,,,11
-2024-11-29,Brighton & Hove Albion,Southampton,D,7,6,22,10,,,,,32,,,13
-2024-11-30,Brentford,Leicester,H,5,4,13,7,,,,,20,,,9
-2024-11-30,Crystal Palace,Newcastle,D,8,9,16,1,,,,,17,,,17
-2024-11-30,Nottingham Forest,Ipswich,H,8,7,12,7,,,,,19,,,15
-2024-11-30,Wolverhampton Wanderers,Bournemouth,A,3,4,10,12,,,,,22,,,7
-2024-11-30,West Ham,Arsenal,A,2,10,12,16,,,,,28,,,12
-2024-12-01,Liverpool,Man City,H,7,4,18,8,,,,,26,,,11
-2024-12-01,Chelsea,Aston Villa,H,3,4,17,10,,,,,27,,,7
-2024-12-01,Man United,Everton,H,2,2,11,8,,,,,19,,,4
-2024-12-01,Tottenham,Fulham,D,7,11,8,14,,,,,22,,,18
-2024-12-03,Ipswich,Crystal Palace,A,4,7,9,13,,,,,22,,,11
-2024-12-03,Leicester,West Ham,H,3,9,8,31,,,,,39,,,12
-2024-12-04,Aston Villa,Brentford,H,10,5,20,9,,,,,29,,,15
-2024-12-04,Everton,Wolverhampton Wanderers,H,3,4,13,6,,,,,19,,,7
-2024-12-04,Man City,Nottingham Forest,H,8,2,17,12,,,,,29,,,10
-2024-12-04,Newcastle,Liverpool,D,5,6,17,16,,,,,33,,,11
-2024-12-04,Southampton,Chelsea,A,5,7,6,26,,,,,32,,,12
-2024-12-04,Arsenal,Man United,H,13,0,14,5,,,,,19,,,13
-2024-12-05,Fulham,Brighton & Hove Albion,H,5,6,6,13,,,,,19,,,11
-2024-12-05,Bournemouth,Tottenham,H,5,9,21,12,,,,,33,,,14
-2024-12-07,Brentford,Newcastle,H,3,4,11,16,,,,,27,,,7
-2024-12-07,Crystal Palace,Man City,D,6,8,12,12,,,,,24,,,14
-2024-12-07,Man United,Nottingham Forest,A,5,3,17,11,,,,,28,,,8
-2024-12-07,Aston Villa,Southampton,H,14,1,18,4,,,,,22,,,15
-2024-12-08,Tottenham,Chelsea,A,5,10,13,17,,,,,30,,,15
-2024-12-08,Fulham,Arsenal,D,0,6,2,12,,,,,14,,,6
-2024-12-08,Leicester,Brighton & Hove Albion,D,5,5,10,16,,,,,26,,,10
-2024-12-08,Ipswich,Bournemouth,A,6,13,18,22,,,,,40,,,19
-2024-12-09,West Ham,Wolverhampton Wanderers,H,11,0,19,19,,,,,38,,,11
-2024-12-14,Arsenal,Everton,D,8,2,13,2,,,,,15,,,10
-2024-12-14,Liverpool,Fulham,D,5,4,16,12,,,,,28,,,9
-2024-12-14,Newcastle,Leicester,H,5,2,27,4,,,,,31,,,7
-2024-12-14,Wolverhampton Wanderers,Ipswich,A,7,3,16,10,,,,,26,,,10
-2024-12-14,Nottingham Forest,Aston Villa,H,4,3,17,8,,,,,25,,,7
-2024-12-15,Southampton,Tottenham,A,2,5,9,18,,,,,27,,,7
-2024-12-15,Man City,Man United,A,8,2,10,10,,,,,20,,,10
-2024-12-15,Brighton & Hove Albion,Crystal Palace,A,8,5,17,13,,,,,30,,,13
-2024-12-15,Chelsea,Brentford,H,8,5,26,9,,,,,35,,,13
-2024-12-16,Bournemouth,West Ham,D,12,6,29,16,,,,,45,,,18
-2024-12-21,Aston Villa,Man City,H,5,4,11,12,,,,,23,,,9
-2024-12-21,Brentford,Nottingham Forest,A,9,5,7,10,,,,,17,,,14
-2024-12-21,Ipswich,Newcastle,A,2,1,10,15,,,,,25,,,3
-2024-12-21,West Ham,Brighton & Hove Albion,D,8,4,11,12,,,,,23,,,12
-2024-12-21,Crystal Palace,Arsenal,A,3,3,15,14,,,,,29,,,6
-2024-12-22,Fulham,Southampton,D,6,5,16,5,,,,,21,,,11
-2024-12-22,Leicester,Wolverhampton Wanderers,A,6,1,9,8,,,,,17,,,7
-2024-12-22,Man United,Bournemouth,A,13,1,23,10,,,,,33,,,14
-2024-12-22,Tottenham,Liverpool,A,7,5,9,24,,,,,33,,,12
-2024-12-22,Everton,Chelsea,D,2,5,5,12,,,,,17,,,7
-2024-12-26,Nottingham Forest,Tottenham,H,2,7,10,13,,,,,23,,,9
-2024-12-26,Liverpool,Leicester,H,14,1,19,4,,,,,23,,,15
-2024-12-26,Wolverhampton Wanderers,Man United,H,4,4,7,11,,,,,18,,,8
-2024-12-26,Southampton,West Ham,A,2,2,18,16,,,,,34,,,4
-2024-12-26,Newcastle,Aston Villa,H,9,6,22,4,,,,,26,,,15
-2024-12-26,Bournemouth,Crystal Palace,D,5,2,18,10,,,,,28,,,7
-2024-12-26,Chelsea,Fulham,A,3,1,12,14,,,,,26,,,4
-2024-12-26,Man City,Everton,D,8,5,24,8,,,,,32,,,13
-2024-12-27,Brighton & Hove Albion,Brentford,D,5,3,24,8,,,,,32,,,8
-2024-12-27,Arsenal,Ipswich,H,5,1,13,3,,,,,16,,,6
-2024-12-29,West Ham,Liverpool,A,3,6,7,22,,,,,29,,,9
-2024-12-29,Fulham,Bournemouth,D,1,7,11,16,,,,,27,,,8
-2024-12-29,Tottenham,Wolverhampton Wanderers,D,5,5,13,11,,,,,24,,,10
-2024-12-29,Crystal Palace,Southampton,H,8,7,19,7,,,,,26,,,15
-2024-12-29,Leicester,Man City,A,4,4,11,14,,,,,25,,,8
-2024-12-29,Everton,Nottingham Forest,A,5,4,13,11,,,,,24,,,9
-2024-12-30,Ipswich,Chelsea,H,4,7,9,20,,,,,29,,,11
-2024-12-30,Man United,Newcastle,A,2,3,10,12,,,,,22,,,5
-2024-12-30,Aston Villa,Brighton & Hove Albion,D,12,3,20,13,,,,,33,,,15
-2025-01-01,Brentford,Arsenal,A,4,3,5,14,,,,,19,,,7
-2025-01-04,Brighton & Hove Albion,Arsenal,D,2,5,11,9,,,,,20,,,7
-2025-01-04,Tottenham,Newcastle,A,9,10,13,14,,,,,27,,,19
-2025-01-04,Aston Villa,Leicester,H,7,2,13,4,,,,,17,,,9
-2025-01-04,Bournemouth,Everton,H,9,3,19,9,,,,,28,,,12
-2025-01-04,Crystal Palace,Chelsea,D,6,6,13,15,,,,,28,,,12
-2025-01-04,Man City,West Ham,H,7,1,10,17,,,,,27,,,8
-2025-01-04,Southampton,Brentford,A,2,2,8,20,,,,,28,,,4
-2025-01-05,Liverpool,Man United,D,6,9,19,13,,,,,32,,,15
-2025-01-05,Fulham,Ipswich,D,9,2,15,7,,,,,22,,,11
-2025-01-06,Wolverhampton Wanderers,Nottingham Forest,A,5,3,13,11,,,,,24,,,8
-2025-01-14,Nottingham Forest,Liverpool,D,0,9,6,23,,,,,29,,,9
-2025-01-14,Brentford,Man City,D,4,5,18,21,,,,,39,,,9
-2025-01-14,West Ham,Fulham,H,0,3,4,21,,,,,25,,,3
-2025-01-14,Chelsea,Bournemouth,D,9,3,26,7,,,,,33,,,12
-2025-01-15,Everton,Aston Villa,A,8,5,10,11,,,,,21,,,13
-2025-01-15,Leicester,Crystal Palace,A,4,3,21,9,,,,,30,,,7
-2025-01-15,Newcastle,Wolverhampton Wanderers,H,4,2,17,13,,,,,30,,,6
-2025-01-15,Arsenal,Tottenham,H,10,4,14,10,,,,,24,,,14
-2025-01-16,Ipswich,Brighton & Hove Albion,A,1,9,5,11,,,,,16,,,10
-2025-01-16,Man United,Southampton,H,5,4,23,13,,,,,36,,,9
-2025-01-18,Arsenal,Aston Villa,D,10,1,18,8,,,,,26,,,11
-2025-01-18,West Ham,Crystal Palace,A,2,4,7,12,,,,,19,,,6
-2025-01-18,Brentford,Liverpool,A,2,15,11,37,,,,,48,,,17
-2025-01-18,Newcastle,Bournemouth,A,7,6,13,19,,,,,32,,,13
-2025-01-18,Leicester,Fulham,A,5,2,8,17,,,,,25,,,7
-2025-01-19,Man United,Brighton & Hove Albion,A,4,2,10,6,,,,,16,,,6
-2025-01-19,Nottingham Forest,Southampton,H,2,8,14,10,,,,,24,,,10
-2025-01-19,Ipswich,Man City,A,4,7,8,17,,,,,25,,,11
-2025-01-19,Everton,Tottenham,H,3,8,12,11,,,,,23,,,11
-2025-01-20,Chelsea,Wolverhampton Wanderers,H,3,6,19,9,,,,,28,,,9
-2025-01-25,Bournemouth,Nottingham Forest,H,3,9,16,18,,,,,34,,,12
-2025-01-25,Brighton & Hove Albion,Everton,A,9,1,16,3,,,,,19,,,10
-2025-01-25,Liverpool,Ipswich,H,3,4,16,3,,,,,19,,,7
-2025-01-25,Southampton,Newcastle,A,3,8,12,17,,,,,29,,,11
-2025-01-25,Man City,Chelsea,H,2,4,15,10,,,,,25,,,6
-2025-01-25,Wolverhampton Wanderers,Arsenal,A,1,5,9,9,,,,,18,,,6
-2025-01-26,Crystal Palace,Brentford,A,4,7,16,13,,,,,29,,,11
-2025-01-26,Fulham,Man United,A,3,0,9,4,,,,,13,,,3
-2025-01-26,Aston Villa,West Ham,D,4,3,14,14,,,,,28,,,7
-2025-01-26,Tottenham,Leicester,A,6,4,15,12,,,,,27,,,10
-2025-02-01,Nottingham Forest,Brighton & Hove Albion,H,4,6,14,10,,,,,24,,,10
-2025-02-01,Bournemouth,Liverpool,A,3,3,14,19,,,,,33,,,6
-2025-02-01,Everton,Leicester,H,5,6,13,9,,,,,22,,,11
-2025-02-01,Ipswich,Southampton,A,1,2,15,9,,,,,24,,,3
-2025-02-01,Newcastle,Fulham,A,4,7,11,15,,,,,26,,,11
-2025-02-01,Wolverhampton Wanderers,Aston Villa,H,5,8,8,10,,,,,18,,,13
-2025-02-02,Arsenal,Man City,H,5,2,12,7,,,,,19,,,7
-2025-02-02,Brentford,Tottenham,A,10,3,20,13,,,,,33,,,13
-2025-02-02,Man United,Crystal Palace,A,11,0,17,11,,,,,28,,,11
-2025-02-03,Chelsea,West Ham,H,4,3,22,14,,,,,36,,,7
-2025-02-12,Everton,Liverpool,D,2,3,10,6,,,,,16,,,5
-2025-02-14,Brighton & Hove Albion,Chelsea,H,2,9,13,8,,,,,21,,,11
-2025-02-15,Crystal Palace,Everton,A,6,2,17,11,,,,,28,,,8
-2025-02-15,Leicester,Arsenal,A,3,7,6,11,,,,,17,,,10
-2025-02-15,Aston Villa,Ipswich,D,16,1,25,4,,,,,29,,,17
-2025-02-15,Fulham,Nottingham Forest,H,8,4,24,8,,,,,32,,,12
-2025-02-15,Man City,Newcastle,H,7,4,11,3,,,,,14,,,11
-2025-02-15,Southampton,Bournemouth,A,4,6,11,14,,,,,25,,,10
-2025-02-15,West Ham,Brentford,A,9,2,13,14,,,,,27,,,11
-2025-02-16,Liverpool,Wolverhampton Wanderers,H,4,3,10,16,,,,,26,,,7
-2025-02-16,Tottenham,Man United,H,10,5,22,16,,,,,38,,,15
-2025-02-19,Aston Villa,Liverpool,D,6,8,9,17,,,,,26,,,14
-2025-02-21,Leicester,Brentford,A,5,6,8,14,,,,,22,,,11
-2025-02-22,Everton,Man United,D,7,9,9,9,,,,,18,,,16
-2025-02-22,Arsenal,West Ham,A,2,0,20,5,,,,,25,,,2
-2025-02-22,Bournemouth,Wolverhampton Wanderers,A,6,7,8,13,,,,,21,,,13
-2025-02-22,Fulham,Crystal Palace,A,7,7,10,10,,,,,20,,,14
-2025-02-22,Ipswich,Tottenham,A,4,4,17,10,,,,,27,,,8
-2025-02-22,Southampton,Brighton & Hove Albion,A,5,6,6,18,,,,,24,,,11
-2025-02-22,Aston Villa,Chelsea,H,2,3,12,15,,,,,27,,,5
-2025-02-23,Newcastle,Nottingham Forest,H,7,6,13,17,,,,,30,,,13
-2025-02-23,Man City,Liverpool,A,7,5,16,8,,,,,24,,,12
-2025-02-25,Chelsea,Southampton,H,4,2,19,7,,,,,26,,,6
-2025-02-25,Wolverhampton Wanderers,Fulham,A,7,5,18,11,,,,,29,,,12
-2025-02-25,Brighton & Hove Albion,Bournemouth,H,1,9,11,19,,,,,30,,,10
-2025-02-25,Crystal Palace,Aston Villa,H,3,8,19,6,,,,,25,,,11
-2025-02-26,Liverpool,Newcastle,H,4,2,12,3,,,,,15,,,6
-2025-02-26,Nottingham Forest,Arsenal,D,3,11,6,13,,,,,19,,,14
-2025-02-26,Brentford,Everton,D,2,5,12,14,,,,,26,,,7
-2025-02-26,Man United,Ipswich,H,5,6,10,12,,,,,22,,,11
-2025-02-26,Tottenham,Man City,A,8,3,11,12,,,,,23,,,11
-2025-02-27,West Ham,Leicester,H,3,3,8,10,,,,,18,,,6
-2025-03-08,Crystal Palace,Ipswich,H,5,4,19,15,,,,,34,,,9
-2025-03-08,Brighton & Hove Albion,Fulham,H,3,7,9,6,,,,,15,,,10
-2025-03-08,Nottingham Forest,Man City,H,3,2,9,14,,,,,23,,,5
-2025-03-08,Brentford,Aston Villa,A,6,5,13,12,,,,,25,,,11
-2025-03-08,Wolverhampton Wanderers,Everton,D,5,5,11,12,,,,,23,,,10
-2025-03-08,Liverpool,Southampton,H,6,4,28,6,,,,,34,,,10
-2025-03-09,Chelsea,Leicester,H,12,2,20,3,,,,,23,,,14
-2025-03-09,Man United,Arsenal,D,2,9,10,17,,,,,27,,,11
-2025-03-09,Tottenham,Bournemouth,D,3,6,12,17,,,,,29,,,9
-2025-03-10,West Ham,Newcastle,A,3,4,9,9,,,,,18,,,7
-2025-03-15,Southampton,Wolverhampton Wanderers,A,5,1,10,5,,,,,15,,,6
-2025-03-15,Bournemouth,Brentford,A,4,3,17,10,,,,,27,,,7
-2025-03-15,Everton,West Ham,D,6,5,13,10,,,,,23,,,11
-2025-03-15,Man City,Brighton & Hove Albion,D,4,5,11,15,,,,,26,,,9
-2025-03-15,Ipswich,Nottingham Forest,A,6,3,11,11,,,,,22,,,9
-2025-03-16,Arsenal,Chelsea,H,5,4,12,8,,,,,20,,,9
-2025-03-16,Fulham,Tottenham,H,6,5,13,12,,,,,25,,,11
-2025-03-16,Leicester,Man United,A,6,4,11,18,,,,,29,,,10
-2025-04-01,Arsenal,Fulham,H,5,4,17,9,,,,,26,,,9
-2025-04-01,Wolverhampton Wanderers,West Ham,H,1,2,9,10,,,,,19,,,3
-2025-04-01,Nottingham Forest,Man United,H,3,10,8,23,,,,,31,,,13
-2025-04-02,Bournemouth,Ipswich,A,8,3,24,10,,,,,34,,,11
-2025-04-02,Brighton & Hove Albion,Aston Villa,A,4,0,11,8,,,,,19,,,4
-2025-04-02,Man City,Leicester,H,5,0,18,2,,,,,20,,,5
-2025-04-02,Newcastle,Brentford,H,4,5,21,12,,,,,33,,,9
-2025-04-02,Southampton,Crystal Palace,D,2,2,8,9,,,,,17,,,4
-2025-04-02,Liverpool,Everton,H,11,5,17,5,,,,,22,,,16
-2025-04-03,Chelsea,Tottenham,H,4,6,11,8,,,,,19,,,10
-2025-04-05,Everton,Arsenal,D,3,8,5,14,,,,,19,,,11
-2025-04-05,Crystal Palace,Brighton & Hove Albion,H,2,4,8,11,,,,,19,,,6
-2025-04-05,Ipswich,Wolverhampton Wanderers,A,4,8,6,22,,,,,28,,,12
-2025-04-05,West Ham,Bournemouth,D,4,7,9,11,,,,,20,,,11
-2025-04-05,Aston Villa,Nottingham Forest,H,4,4,17,19,,,,,36,,,8
-2025-04-06,Brentford,Chelsea,D,3,6,9,21,,,,,30,,,9
-2025-04-06,Fulham,Liverpool,H,4,4,12,14,,,,,26,,,8
-2025-04-06,Tottenham,Southampton,H,4,1,13,12,,,,,25,,,5
-2025-04-06,Man United,Man City,D,5,3,13,9,,,,,22,,,8
-2025-04-07,Leicester,Newcastle,A,12,2,7,16,,,,,23,,,14
-2025-04-12,Man City,Crystal Palace,H,1,4,21,8,,,,,29,,,5
-2025-04-12,Arsenal,Brentford,D,13,5,14,3,,,,,17,,,18
-2025-04-12,Brighton & Hove Albion,Leicester,D,3,6,21,15,,,,,36,,,9
-2025-04-12,Nottingham Forest,Everton,A,1,7,10,13,,,,,23,,,8
-2025-04-12,Southampton,Aston Villa,A,2,14,7,25,,,,,32,,,16
-2025-04-13,Chelsea,Ipswich,D,15,4,34,13,,,,,47,,,19
-2025-04-13,Liverpool,West Ham,H,10,3,15,11,,,,,26,,,13
-2025-04-13,Wolverhampton Wanderers,Tottenham,H,1,4,13,11,,,,,24,,,5
-2025-04-13,Newcastle,Man United,H,7,2,13,9,,,,,22,,,9
-2025-04-14,Bournemouth,Fulham,H,6,9,12,12,,,,,24,,,15
-2025-04-16,Newcastle,Crystal Palace,H,5,4,14,11,,,,,25,,,9
-2025-04-19,Aston Villa,Newcastle,H,7,7,23,10,,,,,33,,,14
-2025-04-19,Crystal Palace,Bournemouth,D,5,4,5,15,,,,,20,,,9
-2025-04-19,Brentford,Brighton & Hove Albion,H,4,8,16,12,,,,,28,,,12
-2025-04-19,Everton,Man City,A,2,5,8,12,,,,,20,,,7
-2025-04-19,West Ham,Southampton,D,2,5,12,15,,,,,27,,,7
-2025-04-20,Fulham,Chelsea,A,6,4,6,13,,,,,19,,,10
-2025-04-20,Man United,Wolverhampton Wanderers,A,9,2,12,4,,,,,16,,,11
-2025-04-20,Ipswich,Arsenal,A,0,12,4,24,,,,,28,,,12
-2025-04-20,Leicester,Liverpool,A,1,13,5,28,,,,,33,,,14
-2025-04-21,Tottenham,Nottingham Forest,A,7,1,22,4,,,,,26,,,8
-2025-04-22,Man City,Aston Villa,H,10,2,14,7,,,,,21,,,12
-2025-04-23,Arsenal,Crystal Palace,D,3,6,12,15,,,,,27,,,9
-2025-04-26,Chelsea,Everton,H,10,2,10,6,,,,,16,,,12
-2025-04-26,Newcastle,Ipswich,H,11,2,25,4,,,,,29,,,13
-2025-04-26,Southampton,Fulham,A,0,13,7,26,,,,,33,,,13
-2025-04-26,Wolverhampton Wanderers,Leicester,H,4,2,20,8,,,,,28,,,6
-2025-04-26,Brighton & Hove Albion,West Ham,H,8,1,16,12,,,,,28,,,9
-2025-04-27,Bournemouth,Man United,D,5,10,8,25,,,,,33,,,15
-2025-04-27,Liverpool,Tottenham,H,8,2,25,8,,,,,33,,,10
-2025-05-01,Nottingham Forest,Brentford,A,4,5,14,11,,,,,25,,,9
-2025-05-02,Man City,Wolverhampton Wanderers,H,4,5,9,6,,,,,15,,,9
-2025-05-03,Arsenal,Bournemouth,A,2,3,13,9,,,,,22,,,5
-2025-05-03,Leicester,Southampton,H,7,7,14,8,,,,,22,,,14
-2025-05-03,Everton,Ipswich,D,3,3,8,12,,,,,20,,,6
-2025-05-03,Aston Villa,Fulham,H,5,3,10,11,,,,,21,,,8
-2025-05-04,Brentford,Man United,H,7,4,12,14,,,,,26,,,11
-2025-05-04,Brighton & Hove Albion,Newcastle,D,1,4,5,13,,,,,18,,,5
-2025-05-04,West Ham,Tottenham,D,1,3,11,7,,,,,18,,,4
-2025-05-04,Chelsea,Liverpool,H,3,6,17,11,,,,,28,,,9
-2025-05-05,Crystal Palace,Nottingham Forest,D,7,4,20,12,,,,,32,,,11
-2025-05-10,Southampton,Man City,D,1,15,2,26,,,,,28,,,16
-2025-05-10,Fulham,Everton,A,5,5,18,11,,,,,29,,,10
-2025-05-10,Ipswich,Brentford,A,5,6,11,15,,,,,26,,,11
-2025-05-10,Wolverhampton Wanderers,Brighton & Hove Albion,A,7,4,10,7,,,,,17,,,11
-2025-05-10,Bournemouth,Aston Villa,A,10,0,10,6,,,,,16,,,10
-2025-05-11,Newcastle,Chelsea,H,2,8,15,10,,,,,25,,,10
-2025-05-11,Man United,West Ham,A,8,5,20,9,,,,,29,,,13
-2025-05-11,Nottingham Forest,Leicester,D,4,4,15,10,,,,,25,,,8
-2025-05-11,Tottenham,Crystal Palace,A,4,8,8,23,,,,,31,,,12
-2025-05-11,Liverpool,Arsenal,D,3,1,14,15,,,,,29,,,4
-2025-05-16,Aston Villa,Tottenham,H,9,1,18,3,,,,,21,,,10
-2025-05-16,Chelsea,Man United,H,7,2,11,4,,,,,15,,,9
-2025-05-18,Leicester,Ipswich,H,2,2,9,20,,,,,29,,,4
-2025-05-18,Arsenal,Newcastle,H,10,7,12,14,,,,,26,,,17
-2025-05-18,West Ham,Nottingham Forest,A,8,7,16,10,,,,,26,,,15
-2025-05-18,Everton,Southampton,H,4,5,13,6,,,,,19,,,9
-2025-05-18,Brentford,Fulham,A,5,3,11,16,,,,,27,,,8
-2025-05-19,Brighton & Hove Albion,Liverpool,H,3,3,25,18,,,,,43,,,6
-2025-05-20,Crystal Palace,Wolverhampton Wanderers,H,0,10,14,12,,,,,26,,,10
-2025-05-20,Man City,Bournemouth,H,3,1,12,8,,,,,20,,,4
-2025-05-25,Bournemouth,Leicester,H,6,1,20,3,,,,,23,,,7
-2025-05-25,Fulham,Man City,A,1,6,13,20,,,,,33,,,7
-2025-05-25,Ipswich,West Ham,A,4,0,14,10,,,,,24,,,4
-2025-05-25,Liverpool,Crystal Palace,D,11,0,14,8,,,,,22,,,11
-2025-05-25,Man United,Aston Villa,H,4,3,25,6,,,,,31,,,7
-2025-05-25,Newcastle,Everton,A,12,3,17,14,,,,,31,,,15
-2025-05-25,Nottingham Forest,Chelsea,A,7,4,10,6,,,,,16,,,11
-2025-05-25,Southampton,Arsenal,A,5,8,7,23,,,,,30,,,13
-2025-05-25,Wolverhampton Wanderers,Brentford,D,8,3,18,13,,,,,31,,,11
-2025-05-25,Tottenham,Brighton & Hove Albion,A,2,11,4,23,,,,,27,,,13
+2023-08-11,Burnley,Man City,A,6,5,6,17,,,,,23,,,11
+2023-08-12,Arsenal,Nottingham Forest,H,8,3,15,6,,,,,21,,,11
+2023-08-12,Bournemouth,West Ham,D,10,4,14,16,,,,,30,,,14
+2023-08-12,Brighton & Hove Albion,Luton,H,6,7,27,9,,,,,36,,,13
+2023-08-12,Everton,Fulham,A,10,4,19,9,,,,,28,,,14
+2023-08-12,Sheffield United,Crystal Palace,A,5,5,8,24,,,,,32,,,10
+2023-08-12,Newcastle,Aston Villa,H,6,5,17,16,,,,,33,,,11
+2023-08-13,Chelsea,Liverpool,D,4,4,10,13,,,,,23,,,8
+2023-08-13,Brentford,Tottenham,D,3,6,11,18,,,,,29,,,9
+2023-08-14,Man United,Wolverhampton Wanderers,H,8,7,15,23,,,,,38,,,15
+2023-08-18,Nottingham Forest,Sheffield United,H,6,7,16,7,,,,,23,,,13
+2023-08-19,Man City,Newcastle,H,3,0,14,7,,,,,21,,,3
+2023-08-19,Fulham,Brentford,A,5,5,10,17,,,,,27,,,10
+2023-08-19,Liverpool,Bournemouth,H,10,2,26,13,,,,,39,,,12
+2023-08-19,Wolverhampton Wanderers,Brighton & Hove Albion,A,5,3,16,16,,,,,32,,,8
+2023-08-19,Tottenham,Man United,H,5,6,17,22,,,,,39,,,11
+2023-08-20,West Ham,Chelsea,H,3,9,12,17,,,,,29,,,12
+2023-08-20,Aston Villa,Everton,H,7,6,13,9,,,,,22,,,13
+2023-08-21,Crystal Palace,Arsenal,A,1,8,14,14,,,,,28,,,9
+2023-08-25,Chelsea,Luton,H,6,4,19,11,,,,,30,,,10
+2023-08-26,Bournemouth,Tottenham,A,6,2,11,17,,,,,28,,,8
+2023-08-26,Arsenal,Fulham,D,8,3,19,8,,,,,27,,,11
+2023-08-26,Brentford,Crystal Palace,D,8,6,12,15,,,,,27,,,14
+2023-08-26,Everton,Wolverhampton Wanderers,A,7,0,15,11,,,,,26,,,7
+2023-08-26,Man United,Nottingham Forest,H,11,3,18,9,,,,,27,,,14
+2023-08-26,Brighton & Hove Albion,West Ham,A,17,4,25,12,,,,,37,,,21
+2023-08-27,Sheffield United,Man City,A,1,12,6,30,,,,,36,,,13
+2023-08-27,Burnley,Aston Villa,A,4,6,9,16,,,,,25,,,10
+2023-08-27,Newcastle,Liverpool,A,5,9,23,9,,,,,32,,,14
+2023-09-01,Luton,West Ham,A,9,6,16,9,,,,,25,,,15
+2023-09-02,Man City,Fulham,H,4,5,7,6,,,,,13,,,9
+2023-09-02,Chelsea,Nottingham Forest,A,8,0,21,7,,,,,28,,,8
+2023-09-02,Burnley,Tottenham,A,7,4,16,20,,,,,36,,,11
+2023-09-02,Brighton & Hove Albion,Newcastle,H,5,3,15,9,,,,,24,,,8
+2023-09-02,Sheffield United,Everton,D,4,6,13,16,,,,,29,,,10
+2023-09-02,Brentford,Bournemouth,D,5,2,21,12,,,,,33,,,7
+2023-09-03,Arsenal,Man United,H,12,3,17,10,,,,,27,,,15
+2023-09-03,Liverpool,Aston Villa,H,7,3,17,9,,,,,26,,,10
+2023-09-03,Crystal Palace,Wolverhampton Wanderers,H,4,2,16,12,,,,,28,,,6
+2023-09-16,Wolverhampton Wanderers,Liverpool,A,4,4,11,16,,,,,27,,,8
+2023-09-16,Aston Villa,Crystal Palace,H,4,2,16,6,,,,,22,,,6
+2023-09-16,Fulham,Luton,H,6,2,13,7,,,,,20,,,8
+2023-09-16,Man United,Brighton & Hove Albion,A,8,1,14,10,,,,,24,,,9
+2023-09-16,Tottenham,Sheffield United,H,15,2,28,7,,,,,35,,,17
+2023-09-16,Newcastle,Brentford,H,8,3,9,11,,,,,20,,,11
+2023-09-16,West Ham,Man City,A,4,11,6,29,,,,,35,,,15
+2023-09-17,Everton,Arsenal,A,1,11,8,13,,,,,21,,,12
+2023-09-17,Bournemouth,Chelsea,D,1,7,13,14,,,,,27,,,8
+2023-09-18,Nottingham Forest,Burnley,D,5,4,14,10,,,,,24,,,9
+2023-09-23,Crystal Palace,Fulham,D,3,2,7,10,,,,,17,,,5
+2023-09-23,Burnley,Man United,A,9,5,12,11,,,,,23,,,14
+2023-09-23,Brentford,Everton,A,1,4,12,18,,,,,30,,,5
+2023-09-23,Man City,Nottingham Forest,H,6,6,7,10,,,,,17,,,12
+2023-09-23,Luton,Wolverhampton Wanderers,D,10,1,20,3,,,,,23,,,11
+2023-09-24,Sheffield United,Newcastle,A,2,6,9,22,,,,,31,,,8
+2023-09-24,Arsenal,Tottenham,D,11,4,13,13,,,,,26,,,15
+2023-09-24,Brighton & Hove Albion,Bournemouth,H,4,4,13,12,,,,,25,,,8
+2023-09-24,Chelsea,Aston Villa,A,5,11,10,15,,,,,25,,,16
+2023-09-24,Liverpool,West Ham,H,7,4,22,11,,,,,33,,,11
+2023-09-30,Everton,Luton,A,3,6,23,9,,,,,32,,,9
+2023-09-30,Man United,Crystal Palace,A,10,4,19,8,,,,,27,,,14
+2023-09-30,Newcastle,Burnley,H,5,3,20,8,,,,,28,,,8
+2023-09-30,West Ham,Sheffield United,H,7,4,20,16,,,,,36,,,11
+2023-09-30,Wolverhampton Wanderers,Man City,H,0,6,3,23,,,,,26,,,6
+2023-09-30,Tottenham,Liverpool,H,12,5,24,12,,,,,36,,,17
+2023-09-30,Aston Villa,Brighton & Hove Albion,H,1,3,19,11,,,,,30,,,4
+2023-09-30,Bournemouth,Arsenal,A,6,6,8,15,,,,,23,,,12
+2023-10-01,Nottingham Forest,Brentford,D,1,11,6,18,,,,,24,,,12
+2023-10-02,Fulham,Chelsea,A,8,1,10,11,,,,,21,,,9
+2023-10-03,Luton,Burnley,A,7,6,18,14,,,,,32,,,13
+2023-10-07,Everton,Bournemouth,H,8,7,25,11,,,,,36,,,15
+2023-10-07,Fulham,Sheffield United,H,9,4,20,5,,,,,25,,,13
+2023-10-07,Man United,Brentford,H,7,5,21,11,,,,,32,,,12
+2023-10-07,Crystal Palace,Nottingham Forest,D,3,7,8,16,,,,,24,,,10
+2023-10-07,Burnley,Chelsea,A,7,3,10,9,,,,,19,,,10
+2023-10-07,Luton,Tottenham,A,5,6,12,15,,,,,27,,,11
+2023-10-08,Arsenal,Man City,H,5,4,12,4,,,,,16,,,9
+2023-10-08,West Ham,Newcastle,D,4,2,5,10,,,,,15,,,6
+2023-10-08,Wolverhampton Wanderers,Aston Villa,D,2,10,8,18,,,,,26,,,12
+2023-10-08,Brighton & Hove Albion,Liverpool,D,8,1,14,14,,,,,28,,,9
+2023-10-21,Liverpool,Everton,H,12,4,26,6,,,,,32,,,16
+2023-10-21,Sheffield United,Man United,A,5,4,12,14,,,,,26,,,9
+2023-10-21,Chelsea,Arsenal,D,2,7,11,13,,,,,24,,,9
+2023-10-21,Nottingham Forest,Luton,D,4,2,19,13,,,,,32,,,6
+2023-10-21,Man City,Brighton & Hove Albion,H,2,2,10,5,,,,,15,,,4
+2023-10-21,Brentford,Burnley,H,5,5,23,6,,,,,29,,,10
+2023-10-21,Bournemouth,Wolverhampton Wanderers,A,3,12,7,20,,,,,27,,,15
+2023-10-21,Newcastle,Crystal Palace,H,6,8,10,17,,,,,27,,,14
+2023-10-22,Aston Villa,West Ham,H,8,7,15,14,,,,,29,,,15
+2023-10-23,Tottenham,Fulham,H,3,5,15,10,,,,,25,,,8
+2023-10-27,Crystal Palace,Tottenham,A,11,2,13,10,,,,,23,,,13
+2023-10-28,Chelsea,Brentford,A,10,1,17,7,,,,,24,,,11
+2023-10-28,Arsenal,Sheffield United,H,6,1,13,2,,,,,15,,,7
+2023-10-28,Bournemouth,Burnley,H,10,5,13,6,,,,,19,,,15
+2023-10-28,Wolverhampton Wanderers,Newcastle,D,8,7,11,13,,,,,24,,,15
+2023-10-29,West Ham,Everton,A,4,3,12,10,,,,,22,,,7
+2023-10-29,Aston Villa,Luton,H,6,4,17,7,,,,,24,,,10
+2023-10-29,Liverpool,Nottingham Forest,H,8,3,21,9,,,,,30,,,11
+2023-10-29,Man United,Man City,A,7,12,7,21,,,,,28,,,19
+2023-10-29,Brighton & Hove Albion,Fulham,D,7,3,18,10,,,,,28,,,10
+2023-11-04,Brentford,West Ham,H,4,3,16,12,,,,,28,,,7
+2023-11-04,Burnley,Crystal Palace,A,12,1,17,4,,,,,21,,,13
+2023-11-04,Everton,Brighton & Hove Albion,D,3,3,10,7,,,,,17,,,6
+2023-11-04,Man City,Bournemouth,H,12,1,21,5,,,,,26,,,13
+2023-11-04,Sheffield United,Wolverhampton Wanderers,H,4,4,11,10,,,,,21,,,8
+2023-11-04,Newcastle,Arsenal,H,0,11,9,14,,,,,23,,,11
+2023-11-04,Fulham,Man United,A,9,4,18,12,,,,,30,,,13
+2023-11-05,Nottingham Forest,Aston Villa,H,0,10,5,13,,,,,18,,,10
+2023-11-05,Luton,Liverpool,D,4,7,8,24,,,,,32,,,11
+2023-11-06,Tottenham,Chelsea,A,1,6,8,17,,,,,25,,,7
+2023-11-11,Crystal Palace,Everton,A,9,2,13,8,,,,,21,,,11
+2023-11-11,Bournemouth,Newcastle,H,6,5,19,8,,,,,27,,,11
+2023-11-11,Wolverhampton Wanderers,Tottenham,H,11,3,17,6,,,,,23,,,14
+2023-11-11,Arsenal,Burnley,H,3,3,16,8,,,,,24,,,6
+2023-11-11,Man United,Luton,H,11,3,15,10,,,,,25,,,14
+2023-11-12,Aston Villa,Fulham,H,2,2,12,9,,,,,21,,,4
+2023-11-12,Brighton & Hove Albion,Sheffield United,D,6,3,11,9,,,,,20,,,9
+2023-11-12,Liverpool,Brentford,H,6,8,17,16,,,,,33,,,14
+2023-11-12,West Ham,Nottingham Forest,H,9,4,16,10,,,,,26,,,13
+2023-11-12,Chelsea,Man City,D,3,3,17,15,,,,,32,,,6
+2023-11-25,Brentford,Arsenal,A,1,8,9,15,,,,,24,,,9
+2023-11-25,Man City,Liverpool,D,9,6,16,8,,,,,24,,,15
+2023-11-25,Burnley,West Ham,A,4,5,11,11,,,,,22,,,9
+2023-11-25,Luton,Crystal Palace,H,4,5,8,16,,,,,24,,,9
+2023-11-25,Newcastle,Chelsea,H,4,2,14,7,,,,,21,,,6
+2023-11-25,Nottingham Forest,Brighton & Hove Albion,A,6,4,18,11,,,,,29,,,10
+2023-11-25,Sheffield United,Bournemouth,A,4,7,10,23,,,,,33,,,11
+2023-11-26,Everton,Man United,A,6,5,24,9,,,,,33,,,11
+2023-11-26,Tottenham,Aston Villa,A,9,3,18,15,,,,,33,,,12
+2023-11-27,Fulham,Wolverhampton Wanderers,H,6,2,12,10,,,,,22,,,8
+2023-12-02,Newcastle,Man United,H,7,3,22,8,,,,,30,,,10
+2023-12-02,Arsenal,Wolverhampton Wanderers,H,4,0,19,6,,,,,25,,,4
+2023-12-02,Burnley,Sheffield United,H,6,1,19,6,,,,,25,,,7
+2023-12-02,Nottingham Forest,Everton,A,4,3,13,12,,,,,25,,,7
+2023-12-02,Brentford,Luton,H,7,5,27,7,,,,,34,,,12
+2023-12-03,Bournemouth,Aston Villa,D,7,7,15,11,,,,,26,,,14
+2023-12-03,Chelsea,Brighton & Hove Albion,H,5,8,8,18,,,,,26,,,13
+2023-12-03,Liverpool,Fulham,H,3,4,26,9,,,,,35,,,7
+2023-12-03,West Ham,Crystal Palace,D,2,3,9,9,,,,,18,,,5
+2023-12-03,Man City,Tottenham,D,10,8,18,8,,,,,26,,,18
+2023-12-05,Wolverhampton Wanderers,Burnley,H,6,8,7,12,,,,,19,,,14
+2023-12-05,Luton,Arsenal,A,3,8,6,23,,,,,29,,,11
+2023-12-06,Aston Villa,Man City,H,6,0,22,2,,,,,24,,,6
+2023-12-06,Man United,Chelsea,H,12,4,28,13,,,,,41,,,16
+2023-12-06,Crystal Palace,Bournemouth,A,3,9,16,11,,,,,27,,,12
+2023-12-06,Brighton & Hove Albion,Brentford,H,7,3,18,8,,,,,26,,,10
+2023-12-06,Fulham,Nottingham Forest,H,6,1,14,4,,,,,18,,,7
+2023-12-06,Sheffield United,Liverpool,A,2,12,6,15,,,,,21,,,14
+2023-12-07,Everton,Newcastle,H,5,2,21,13,,,,,34,,,7
+2023-12-07,Tottenham,West Ham,A,8,4,23,11,,,,,34,,,12
+2023-12-09,Crystal Palace,Liverpool,A,6,5,8,14,,,,,22,,,11
+2023-12-09,Brighton & Hove Albion,Burnley,D,9,1,29,6,,,,,35,,,10
+2023-12-09,Man United,Bournemouth,A,10,4,20,10,,,,,30,,,14
+2023-12-09,Sheffield United,Brentford,H,3,4,9,10,,,,,19,,,7
+2023-12-09,Wolverhampton Wanderers,Nottingham Forest,D,4,3,10,8,,,,,18,,,7
+2023-12-09,Aston Villa,Arsenal,H,3,3,10,12,,,,,22,,,6
+2023-12-10,Everton,Chelsea,H,4,8,9,16,,,,,25,,,12
+2023-12-10,Fulham,West Ham,H,3,6,14,9,,,,,23,,,9
+2023-12-10,Luton,Man City,A,6,3,4,18,,,,,22,,,9
+2023-12-10,Tottenham,Newcastle,H,3,6,23,9,,,,,32,,,9
+2023-12-15,Nottingham Forest,Tottenham,A,6,4,15,12,,,,,27,,,10
+2023-12-16,Burnley,Everton,A,8,6,14,9,,,,,23,,,14
+2023-12-16,Chelsea,Sheffield United,H,7,6,15,6,,,,,21,,,13
+2023-12-16,Man City,Crystal Palace,D,6,1,19,5,,,,,24,,,7
+2023-12-16,Newcastle,Fulham,H,5,1,27,6,,,,,33,,,6
+2023-12-17,Arsenal,Brighton & Hove Albion,H,10,1,26,6,,,,,32,,,11
+2023-12-17,Brentford,Aston Villa,A,7,12,4,15,,,,,19,,,19
+2023-12-17,West Ham,Wolverhampton Wanderers,H,6,6,13,14,,,,,27,,,12
+2023-12-17,Liverpool,Man United,D,12,0,34,6,,,,,40,,,12
+2023-12-21,Crystal Palace,Brighton & Hove Albion,D,3,1,11,18,,,,,29,,,4
+2023-12-22,Aston Villa,Sheffield United,D,9,1,12,5,,,,,17,,,10
+2023-12-23,Liverpool,Arsenal,D,4,5,13,13,,,,,26,,,9
+2023-12-23,West Ham,Man United,H,4,4,12,11,,,,,23,,,8
+2023-12-23,Fulham,Burnley,A,8,6,19,7,,,,,26,,,14
+2023-12-23,Luton,Newcastle,H,6,7,16,15,,,,,31,,,13
+2023-12-23,Nottingham Forest,Bournemouth,A,6,6,11,18,,,,,29,,,12
+2023-12-23,Tottenham,Everton,H,3,8,13,18,,,,,31,,,11
+2023-12-24,Wolverhampton Wanderers,Chelsea,H,10,6,14,16,,,,,30,,,16
+2023-12-26,Newcastle,Nottingham Forest,A,10,2,19,15,,,,,34,,,12
+2023-12-26,Bournemouth,Fulham,H,6,5,16,8,,,,,24,,,11
+2023-12-26,Sheffield United,Luton,A,9,4,21,12,,,,,33,,,13
+2023-12-26,Burnley,Liverpool,A,4,4,9,19,,,,,28,,,8
+2023-12-26,Man United,Aston Villa,H,3,6,13,10,,,,,23,,,9
+2023-12-27,Brentford,Wolverhampton Wanderers,A,8,2,14,11,,,,,25,,,10
+2023-12-27,Chelsea,Crystal Palace,H,4,3,9,13,,,,,22,,,7
+2023-12-27,Everton,Man City,A,8,4,7,23,,,,,30,,,12
+2023-12-28,Arsenal,West Ham,A,10,3,30,6,,,,,36,,,13
+2023-12-28,Brighton & Hove Albion,Tottenham,H,7,6,15,19,,,,,34,,,13
+2023-12-30,Luton,Chelsea,A,7,2,15,12,,,,,27,,,9
+2023-12-30,Aston Villa,Burnley,H,6,2,19,9,,,,,28,,,8
+2023-12-30,Crystal Palace,Brentford,H,7,4,13,9,,,,,22,,,11
+2023-12-30,Man City,Sheffield United,H,12,2,18,4,,,,,22,,,14
+2023-12-30,Wolverhampton Wanderers,Everton,H,5,2,12,10,,,,,22,,,7
+2023-12-30,Nottingham Forest,Man United,H,4,5,8,10,,,,,18,,,9
+2023-12-31,Fulham,Arsenal,H,5,4,15,13,,,,,28,,,9
+2023-12-31,Tottenham,Bournemouth,H,4,13,12,24,,,,,36,,,17
+2024-01-01,Liverpool,Newcastle,H,7,3,34,5,,,,,39,,,10
+2024-01-02,West Ham,Brighton & Hove Albion,D,2,0,6,22,,,,,28,,,2
+2024-01-12,Burnley,Luton,D,2,8,13,14,,,,,27,,,10
+2024-01-13,Chelsea,Fulham,H,6,4,17,14,,,,,31,,,10
+2024-01-13,Newcastle,Man City,A,3,13,12,27,,,,,39,,,16
+2024-01-14,Man United,Tottenham,D,8,13,9,16,,,,,25,,,21
+2024-01-14,Everton,Aston Villa,D,4,5,10,16,,,,,26,,,9
+2024-01-20,Arsenal,Crystal Palace,H,6,7,21,12,,,,,33,,,13
+2024-01-20,Brentford,Nottingham Forest,H,6,4,11,12,,,,,23,,,10
+2024-01-21,Sheffield United,West Ham,D,4,1,21,16,,,,,37,,,5
+2024-01-21,Bournemouth,Liverpool,A,8,5,11,14,,,,,25,,,13
+2024-01-22,Brighton & Hove Albion,Wolverhampton Wanderers,D,8,2,11,8,,,,,19,,,10
+2024-01-30,Fulham,Everton,D,15,6,25,21,,,,,46,,,21
+2024-01-30,Luton,Brighton & Hove Albion,H,7,4,18,9,,,,,27,,,11
+2024-01-30,Crystal Palace,Sheffield United,H,11,1,12,9,,,,,21,,,12
+2024-01-30,Aston Villa,Newcastle,A,8,7,12,14,,,,,26,,,15
+2024-01-30,Nottingham Forest,Arsenal,A,2,11,9,19,,,,,28,,,13
+2024-01-31,Man City,Burnley,H,7,3,14,8,,,,,22,,,10
+2024-01-31,Tottenham,Brentford,H,5,3,19,9,,,,,28,,,8
+2024-01-31,Liverpool,Chelsea,H,8,1,28,4,,,,,32,,,9
+2024-02-01,West Ham,Bournemouth,D,1,5,9,9,,,,,18,,,6
+2024-02-01,Wolverhampton Wanderers,Man United,A,4,5,16,21,,,,,37,,,9
+2024-02-03,Burnley,Fulham,D,2,13,12,15,,,,,27,,,15
+2024-02-03,Sheffield United,Aston Villa,A,3,4,10,14,,,,,24,,,7
+2024-02-03,Newcastle,Luton,D,8,2,19,11,,,,,30,,,10
+2024-02-03,Brighton & Hove Albion,Crystal Palace,H,3,2,13,7,,,,,20,,,5
+2024-02-03,Everton,Tottenham,D,9,5,14,9,,,,,23,,,14
+2024-02-04,Arsenal,Liverpool,H,2,4,15,10,,,,,25,,,6
+2024-02-04,Chelsea,Wolverhampton Wanderers,A,10,1,15,14,,,,,29,,,11
+2024-02-04,Bournemouth,Nottingham Forest,D,11,6,9,8,,,,,17,,,17
+2024-02-04,Man United,West Ham,H,5,8,12,22,,,,,34,,,13
+2024-02-05,Brentford,Man City,A,8,13,9,25,,,,,34,,,21
+2024-02-10,Man City,Everton,H,9,0,19,5,,,,,24,,,9
+2024-02-10,Fulham,Bournemouth,H,1,14,7,25,,,,,32,,,15
+2024-02-10,Liverpool,Burnley,H,9,3,25,9,,,,,34,,,12
+2024-02-10,Luton,Sheffield United,A,13,1,20,7,,,,,27,,,14
+2024-02-10,Tottenham,Brighton & Hove Albion,H,9,6,16,6,,,,,22,,,15
+2024-02-10,Nottingham Forest,Newcastle,A,4,4,13,7,,,,,20,,,8
+2024-02-10,Wolverhampton Wanderers,Brentford,A,7,4,17,9,,,,,26,,,11
+2024-02-11,Aston Villa,Man United,A,10,8,23,17,,,,,40,,,18
+2024-02-11,West Ham,Arsenal,A,2,6,5,25,,,,,30,,,8
+2024-02-12,Crystal Palace,Chelsea,A,1,7,13,14,,,,,27,,,8
+2024-02-17,Brentford,Liverpool,A,1,6,15,15,,,,,30,,,7
+2024-02-17,Burnley,Arsenal,A,4,6,8,16,,,,,24,,,10
+2024-02-17,Fulham,Aston Villa,A,4,4,15,12,,,,,27,,,8
+2024-02-17,Newcastle,Bournemouth,D,4,2,17,12,,,,,29,,,6
+2024-02-17,Nottingham Forest,West Ham,H,5,3,19,10,,,,,29,,,8
+2024-02-17,Tottenham,Wolverhampton Wanderers,A,10,4,15,12,,,,,27,,,14
+2024-02-17,Man City,Chelsea,D,12,1,31,9,,,,,40,,,13
+2024-02-18,Sheffield United,Brighton & Hove Albion,A,5,10,6,24,,,,,30,,,15
+2024-02-18,Luton,Man United,A,8,6,22,21,,,,,43,,,14
+2024-02-19,Everton,Crystal Palace,D,3,6,19,10,,,,,29,,,9
+2024-02-20,Man City,Brentford,H,10,1,25,6,,,,,31,,,11
+2024-02-21,Liverpool,Luton,H,13,4,29,12,,,,,41,,,17
+2024-02-24,Arsenal,Newcastle,H,9,0,18,3,,,,,21,,,9
+2024-02-24,Aston Villa,Nottingham Forest,H,7,2,16,10,,,,,26,,,9
+2024-02-24,Brighton & Hove Albion,Everton,D,11,3,23,6,,,,,29,,,14
+2024-02-24,Crystal Palace,Burnley,H,12,3,15,2,,,,,17,,,15
+2024-02-24,Man United,Fulham,A,10,9,21,17,,,,,38,,,19
+2024-02-24,Bournemouth,Man City,A,3,8,13,15,,,,,28,,,11
+2024-02-25,Wolverhampton Wanderers,Sheffield United,H,5,6,13,12,,,,,25,,,11
+2024-02-26,West Ham,Brentford,H,1,7,17,14,,,,,31,,,8
+2024-03-02,Luton,Aston Villa,A,8,6,13,12,,,,,25,,,14
+2024-03-02,Tottenham,Crystal Palace,H,11,1,14,4,,,,,18,,,12
+2024-03-02,Nottingham Forest,Liverpool,A,3,12,8,22,,,,,30,,,15
+2024-03-02,Newcastle,Wolverhampton Wanderers,H,3,5,14,12,,,,,26,,,8
+2024-03-02,Fulham,Brighton & Hove Albion,H,2,6,12,15,,,,,27,,,8
+2024-03-02,Everton,West Ham,A,4,5,22,12,,,,,34,,,9
+2024-03-02,Brentford,Chelsea,D,0,6,14,17,,,,,31,,,6
+2024-03-03,Burnley,Bournemouth,A,7,2,20,10,,,,,30,,,9
+2024-03-03,Man City,Man United,H,15,2,27,3,,,,,30,,,17
+2024-03-04,Sheffield United,Arsenal,A,0,7,4,22,,,,,26,,,7
+2024-03-09,Wolverhampton Wanderers,Fulham,H,3,4,8,23,,,,,31,,,7
+2024-03-09,Arsenal,Brentford,H,10,4,17,9,,,,,26,,,14
+2024-03-09,Man United,Everton,H,5,8,15,23,,,,,38,,,13
+2024-03-09,Bournemouth,Sheffield United,D,10,3,32,13,,,,,45,,,13
+2024-03-09,Crystal Palace,Luton,D,8,6,21,8,,,,,29,,,14
+2024-03-10,West Ham,Burnley,D,4,4,22,11,,,,,33,,,8
+2024-03-10,Liverpool,Man City,D,7,4,19,10,,,,,29,,,11
+2024-03-10,Aston Villa,Tottenham,A,6,4,10,9,,,,,19,,,10
+2024-03-10,Brighton & Hove Albion,Nottingham Forest,H,6,3,10,9,,,,,19,,,9
+2024-03-11,Chelsea,Newcastle,H,0,4,12,11,,,,,23,,,4
+2024-03-13,Bournemouth,Luton,H,11,3,24,8,,,,,32,,,14
+2024-03-16,Burnley,Brentford,H,5,4,17,9,,,,,26,,,9
+2024-03-16,Luton,Nottingham Forest,D,6,7,10,16,,,,,26,,,13
+2024-03-16,Fulham,Tottenham,H,4,5,16,14,,,,,30,,,9
+2024-03-17,West Ham,Aston Villa,D,7,11,13,13,,,,,26,,,18
+2024-03-30,Chelsea,Burnley,D,12,4,33,18,,,,,51,,,16
+2024-03-30,Newcastle,West Ham,H,3,4,24,10,,,,,34,,,7
+2024-03-30,Bournemouth,Everton,H,9,8,11,7,,,,,18,,,17
+2024-03-30,Nottingham Forest,Crystal Palace,D,4,6,12,10,,,,,22,,,10
+2024-03-30,Tottenham,Luton,H,3,6,17,7,,,,,24,,,9
+2024-03-30,Aston Villa,Wolverhampton Wanderers,H,5,4,11,13,,,,,24,,,9
+2024-03-30,Brentford,Man United,D,14,4,31,11,,,,,42,,,18
+2024-03-30,Sheffield United,Fulham,D,2,15,8,24,,,,,32,,,17
+2024-03-31,Liverpool,Brighton & Hove Albion,H,8,4,30,9,,,,,39,,,12
+2024-03-31,Man City,Arsenal,D,7,4,12,6,,,,,18,,,11
+2024-04-02,Newcastle,Everton,D,7,3,18,10,,,,,28,,,10
+2024-04-02,Nottingham Forest,Fulham,H,3,8,16,18,,,,,34,,,11
+2024-04-02,Bournemouth,Crystal Palace,H,9,2,11,3,,,,,14,,,11
+2024-04-02,Burnley,Wolverhampton Wanderers,D,7,4,13,8,,,,,21,,,11
+2024-04-02,West Ham,Tottenham,D,9,5,11,13,,,,,24,,,14
+2024-04-03,Arsenal,Luton,H,3,1,13,5,,,,,18,,,4
+2024-04-03,Brentford,Brighton & Hove Albion,D,1,5,5,24,,,,,29,,,6
+2024-04-03,Man City,Aston Villa,H,2,3,25,8,,,,,33,,,5
+2024-04-04,Liverpool,Sheffield United,H,13,1,29,8,,,,,37,,,14
+2024-04-04,Chelsea,Man United,H,12,3,28,19,,,,,47,,,15
+2024-04-06,Aston Villa,Brentford,D,11,3,11,8,,,,,19,,,14
+2024-04-06,Brighton & Hove Albion,Arsenal,A,8,7,10,20,,,,,30,,,15
+2024-04-06,Luton,Bournemouth,H,7,2,19,8,,,,,27,,,9
+2024-04-06,Fulham,Newcastle,A,14,3,14,12,,,,,26,,,17
+2024-04-06,Everton,Burnley,H,3,5,12,6,,,,,18,,,8
+2024-04-06,Crystal Palace,Man City,A,2,9,7,18,,,,,25,,,11
+2024-04-06,Wolverhampton Wanderers,West Ham,A,4,4,14,11,,,,,25,,,8
+2024-04-07,Tottenham,Nottingham Forest,H,12,2,17,13,,,,,30,,,14
+2024-04-07,Sheffield United,Chelsea,D,7,6,11,6,,,,,17,,,13
+2024-04-07,Man United,Liverpool,D,6,11,9,28,,,,,37,,,17
+2024-04-13,Burnley,Brighton & Hove Albion,D,4,5,11,20,,,,,31,,,9
+2024-04-13,Brentford,Sheffield United,H,3,6,9,8,,,,,17,,,9
+2024-04-13,Newcastle,Tottenham,H,16,3,18,11,,,,,29,,,19
+2024-04-13,Nottingham Forest,Wolverhampton Wanderers,D,10,1,18,11,,,,,29,,,11
+2024-04-13,Bournemouth,Man United,D,7,2,20,8,,,,,28,,,9
+2024-04-13,Man City,Luton,H,12,1,33,4,,,,,37,,,13
+2024-04-14,Arsenal,Aston Villa,A,4,6,18,11,,,,,29,,,10
+2024-04-14,Liverpool,Crystal Palace,A,11,1,21,8,,,,,29,,,12
+2024-04-14,West Ham,Fulham,A,8,3,15,18,,,,,33,,,11
+2024-04-15,Chelsea,Everton,H,4,8,14,10,,,,,24,,,12
+2024-04-20,Luton,Brentford,A,4,9,6,21,,,,,27,,,13
+2024-04-20,Sheffield United,Burnley,A,11,2,18,16,,,,,34,,,13
+2024-04-20,Wolverhampton Wanderers,Arsenal,A,1,2,5,24,,,,,29,,,3
+2024-04-21,Everton,Nottingham Forest,H,6,4,7,8,,,,,15,,,10
+2024-04-21,Aston Villa,Bournemouth,H,8,4,14,14,,,,,28,,,12
+2024-04-21,Crystal Palace,West Ham,H,4,0,18,4,,,,,22,,,4
+2024-04-21,Fulham,Liverpool,A,1,4,12,14,,,,,26,,,5
+2024-04-23,Arsenal,Chelsea,H,4,2,27,7,,,,,34,,,6
+2024-04-24,Everton,Liverpool,H,4,13,16,23,,,,,39,,,17
+2024-04-24,Man United,Sheffield United,H,9,4,25,10,,,,,35,,,13
+2024-04-24,Crystal Palace,Newcastle,H,7,2,20,7,,,,,27,,,9
+2024-04-24,Wolverhampton Wanderers,Bournemouth,A,8,12,15,21,,,,,36,,,20
+2024-04-25,Brighton & Hove Albion,Man City,A,4,4,7,14,,,,,21,,,8
+2024-04-27,West Ham,Liverpool,D,5,8,11,28,,,,,39,,,13
+2024-04-27,Fulham,Crystal Palace,D,5,9,9,14,,,,,23,,,14
+2024-04-27,Man United,Burnley,D,6,5,27,16,,,,,43,,,11
+2024-04-27,Newcastle,Sheffield United,H,4,5,20,15,,,,,35,,,9
+2024-04-27,Wolverhampton Wanderers,Luton,H,4,4,13,9,,,,,22,,,8
+2024-04-27,Everton,Brentford,H,6,6,18,10,,,,,28,,,12
+2024-04-27,Aston Villa,Chelsea,D,2,4,9,21,,,,,30,,,6
+2024-04-28,Nottingham Forest,Man City,A,4,5,14,11,,,,,25,,,9
+2024-04-28,Bournemouth,Brighton & Hove Albion,H,8,2,15,13,,,,,28,,,10
+2024-04-28,Tottenham,Arsenal,A,8,6,14,9,,,,,23,,,14
+2024-05-02,Chelsea,Tottenham,H,4,9,16,19,,,,,35,,,13
+2024-05-03,Luton,Everton,D,8,7,18,10,,,,,28,,,15
+2024-05-04,Arsenal,Bournemouth,H,6,1,25,7,,,,,32,,,7
+2024-05-04,Brentford,Fulham,D,7,6,7,15,,,,,22,,,13
+2024-05-04,Burnley,Newcastle,A,4,11,17,23,,,,,40,,,15
+2024-05-04,Sheffield United,Nottingham Forest,A,5,3,17,15,,,,,32,,,8
+2024-05-04,Man City,Wolverhampton Wanderers,H,6,0,20,2,,,,,22,,,6
+2024-05-05,Brighton & Hove Albion,Aston Villa,H,7,3,15,2,,,,,17,,,10
+2024-05-05,Chelsea,West Ham,H,8,6,25,13,,,,,38,,,14
+2024-05-05,Liverpool,Tottenham,H,8,3,25,11,,,,,36,,,11
+2024-05-06,Crystal Palace,Man United,H,6,3,18,7,,,,,25,,,9
+2024-05-11,Tottenham,Burnley,H,9,3,21,7,,,,,28,,,12
+2024-05-11,Nottingham Forest,Chelsea,A,5,6,20,12,,,,,32,,,11
+2024-05-11,Wolverhampton Wanderers,Crystal Palace,A,8,3,13,13,,,,,26,,,11
+2024-05-11,West Ham,Luton,H,7,6,24,4,,,,,28,,,13
+2024-05-11,Newcastle,Brighton & Hove Albion,D,8,4,18,15,,,,,33,,,12
+2024-05-11,Bournemouth,Brentford,A,3,8,13,11,,,,,24,,,11
+2024-05-11,Fulham,Man City,A,1,7,1,16,,,,,17,,,8
+2024-05-11,Everton,Sheffield United,H,3,6,15,13,,,,,28,,,9
+2024-05-12,Man United,Arsenal,A,4,7,14,11,,,,,25,,,11
+2024-05-13,Aston Villa,Liverpool,D,5,4,19,14,,,,,33,,,9
+2024-05-14,Tottenham,Man City,A,7,4,10,8,,,,,18,,,11
+2024-05-15,Man United,Newcastle,H,9,9,17,21,,,,,38,,,18
+2024-05-15,Brighton & Hove Albion,Chelsea,A,4,6,12,13,,,,,25,,,10
+2024-05-19,Brighton & Hove Albion,Man United,A,7,5,17,11,,,,,28,,,12
+2024-05-19,Luton,Fulham,A,4,4,15,15,,,,,30,,,8
+2024-05-19,Brentford,Newcastle,A,3,0,10,12,,,,,22,,,3
+2024-05-19,Chelsea,Bournemouth,H,6,5,16,22,,,,,38,,,11
+2024-05-19,Liverpool,Wolverhampton Wanderers,H,10,2,36,4,,,,,40,,,12
+2024-05-19,Crystal Palace,Aston Villa,H,2,4,15,8,,,,,23,,,6
+2024-05-19,Arsenal,Everton,H,8,1,26,5,,,,,31,,,9
+2024-05-19,Burnley,Nottingham Forest,A,4,3,20,12,,,,,32,,,7
+2024-05-19,Sheffield United,Tottenham,A,2,6,6,18,,,,,24,,,8
+2024-05-19,Man City,West Ham,H,11,2,28,3,,,,,31,,,13
 2025-08-15,Liverpool,Bournemouth,H,6,7,19,10,,,,,29,,,13
 2025-08-16,Brighton & Hove Albion,Fulham,D,4,3,10,7,,,,,17,,,7
 2025-08-16,Sunderland,West Ham,H,5,7,10,12,,,,,22,,,12
@@ -390,11 +390,11 @@ Fecha,Local,Visitante,Resultado_Final,HC,AC,HST,AST,FT_H,FT_A,OFF_H,OFF_A,Total_
 2025-08-17,Man United,Arsenal,A,3,4,22,9,,,,,31,,,7
 2025-08-18,Leeds,Everton,H,7,2,21,7,,,,,28,,,9
 2025-08-22,West Ham,Chelsea,A,7,5,12,12,,,,,24,,,12
-2025-08-23,Arsenal,Leeds,H,2,2,18,3,,,,,21,,,4
-2025-08-23,Burnley,Sunderland,H,4,3,7,9,,,,,16,,,7
 2025-08-23,Brentford,Aston Villa,H,2,9,9,17,,,,,26,,,11
+2025-08-23,Arsenal,Leeds,H,2,2,18,3,,,,,21,,,4
 2025-08-23,Man City,Tottenham,A,7,2,10,12,,,,,22,,,9
 2025-08-23,Bournemouth,Wolverhampton Wanderers,H,8,3,14,6,,,,,20,,,11
+2025-08-23,Burnley,Sunderland,H,4,3,7,9,,,,,16,,,7
 2025-08-24,Crystal Palace,Nottingham Forest,D,1,3,8,9,,,,,17,,,4
 2025-08-24,Everton,Brighton & Hove Albion,H,2,2,11,13,,,,,24,,,4
 2025-08-24,Fulham,Man United,D,9,6,13,10,,,,,23,,,15
@@ -405,11 +405,10 @@ Fecha,Local,Visitante,Resultado_Final,HC,AC,HST,AST,FT_H,FT_A,OFF_H,OFF_A,Total_
 2025-08-30,Tottenham,Bournemouth,A,0,8,5,20,,,,,25,,,8
 2025-08-30,Wolverhampton Wanderers,Everton,A,2,2,12,10,,,,,22,,,4
 2025-08-30,Leeds,Newcastle,D,5,5,10,8,,,,,18,,,10
+2025-08-31,Liverpool,Arsenal,H,3,8,9,11,,,,,20,,,11
 2025-08-31,Brighton & Hove Albion,Man City,H,3,2,12,12,,,,,24,,,5
 2025-08-31,Nottingham Forest,West Ham,A,9,7,11,12,,,,,23,,,16
-2025-08-31,Liverpool,Arsenal,H,3,8,9,11,,,,,20,,,11
 2025-08-31,Aston Villa,Crystal Palace,A,10,1,13,6,,,,,19,,,11
-2025-09-13,Arsenal,Nottingham Forest,H,8,4,16,5,,,,,21,,,12
 2025-09-13,Bournemouth,Brighton & Hove Albion,H,4,4,13,6,,,,,19,,,8
 2025-09-13,Crystal Palace,Sunderland,D,5,3,14,6,,,,,20,,,8
 2025-09-13,Everton,Aston Villa,D,10,3,20,7,,,,,27,,,13
@@ -417,15 +416,26 @@ Fecha,Local,Visitante,Resultado_Final,HC,AC,HST,AST,FT_H,FT_A,OFF_H,OFF_A,Total_
 2025-09-13,Newcastle,Wolverhampton Wanderers,H,10,4,16,8,,,,,24,,,14
 2025-09-13,West Ham,Tottenham,A,2,13,7,14,,,,,21,,,15
 2025-09-13,Brentford,Chelsea,D,5,6,7,16,,,,,23,,,11
+2025-09-13,Arsenal,Nottingham Forest,H,8,4,16,5,,,,,21,,,12
 2025-09-14,Burnley,Liverpool,A,1,13,3,27,,,,,30,,,14
 2025-09-14,Man City,Man United,H,2,4,13,12,,,,,25,,,6
-2025-09-20,Liverpool,Everton,H,5,4,11,9,,,,,20,,,9
-2025-09-20,Brighton & Hove Albion,Tottenham,D,2,10,12,11,,,,,23,,,12
-2025-09-20,Burnley,Nottingham Forest,D,4,5,12,17,,,,,29,,,9
-2025-09-20,West Ham,Crystal Palace,A,8,8,8,18,,,,,26,,,16
+2025-09-20,Fulham,Brentford,H,2,10,14,8,,,,,22,,,12
 2025-09-20,Wolverhampton Wanderers,Leeds,A,4,0,16,6,,,,,22,,,4
 2025-09-20,Man United,Chelsea,H,5,5,11,5,,,,,16,,,10
-2025-09-20,Fulham,Brentford,H,2,10,14,8,,,,,22,,,12
+2025-09-20,Burnley,Nottingham Forest,D,4,5,12,17,,,,,29,,,9
+2025-09-20,Brighton & Hove Albion,Tottenham,D,2,10,12,11,,,,,23,,,12
+2025-09-20,Liverpool,Everton,H,5,4,11,9,,,,,20,,,9
+2025-09-20,West Ham,Crystal Palace,A,8,8,8,18,,,,,26,,,16
 2025-09-21,Bournemouth,Newcastle,D,5,2,11,4,,,,,15,,,7
 2025-09-21,Sunderland,Aston Villa,D,6,5,14,12,,,,,26,,,11
 2025-09-21,Arsenal,Man City,D,11,2,12,5,,,,,17,,,13
+2025-09-27,Tottenham,Wolverhampton Wanderers,D,10,9,10,9,,,,,19,,,19
+2025-09-27,Nottingham Forest,Sunderland,A,7,4,22,11,,,,,33,,,11
+2025-09-27,Man City,Burnley,H,10,2,21,9,,,,,30,,,12
+2025-09-27,Crystal Palace,Liverpool,H,2,6,16,20,,,,,36,,,8
+2025-09-27,Chelsea,Brighton & Hove Albion,A,5,7,13,12,,,,,25,,,12
+2025-09-27,Brentford,Man United,H,4,2,10,14,,,,,24,,,6
+2025-09-27,Leeds,Bournemouth,D,7,4,19,12,,,,,31,,,11
+2025-09-28,Aston Villa,Fulham,H,2,8,9,11,,,,,20,,,10
+2025-09-28,Newcastle,Arsenal,A,7,12,8,20,,,,,28,,,19
+2025-09-29,Everton,West Ham,D,3,5,12,14,,,,,26,,,8
